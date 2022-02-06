@@ -1,0 +1,2 @@
+#define DELAUNAYTRIANGULATION_API __declspec(dllexport)
+#define DELAUNAYTRIANGULATION_API __declspec(dllimport)
